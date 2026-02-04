@@ -1,4 +1,4 @@
-##### Hi there 👋
+### Hi there 👋
 
 I am a technical writer and GIS analyst with a Ph.D. from IIT Gandhinagar and over four years of experience translating complex data into clear, usable insights through technical documentation, data analysis, and visualization.
 
@@ -21,7 +21,7 @@ I am a technical writer and GIS analyst with a Ph.D. from IIT Gandhinagar and ov
 
 **I am actively seeking opportunities to apply my technical writing skills across diverse domains.**
 
-#### Disclaimer  
+##### Disclaimer  
 <small>
 The documents in this repository are original works created for portfolio purposes.
 They do not represent internal documentation from any organization and contain no proprietary or confidential information.
