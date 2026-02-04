@@ -19,7 +19,7 @@ I am a technical writer and GIS analyst with a Ph.D. from IIT Gandhinagar and ov
 2. API documentation
 3. [Story map for crisis management](https://arcg.is/4uPO50)
 
-I am actively seeking opportunities to apply my technical writing skills across diverse domains.
+**I am actively seeking opportunities to apply my technical writing skills across diverse domains.**
 
 #### Disclaimer  
 <small>
