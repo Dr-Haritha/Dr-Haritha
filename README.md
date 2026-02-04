@@ -15,8 +15,8 @@ I am a technical writer and GIS analyst with a Ph.D. from IIT Gandhinagar and ov
 * Crisis management
 
 ### Here are some samples
-1. [SOP for development of a web application]
-2. [API documentation]
+1. SOP for development of a web application
+2. API documentation
 3. [Story map for crisis management](https://arcg.is/4uPO50)
 
 I am actively seeking opportunities to apply my technical writing skills across diverse domains.
