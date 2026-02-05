@@ -25,6 +25,7 @@ The web application and the hosted form will be hosted in the organization enter
 Datasets sourced from open source platforms such as ESRI and OpenStreetsMap.
 
 * **Hosted form - Key attributes:**
+  
 | Attribute/Field | Type              | Description                                                   |
 | ----------------| ----------------- | ------------------------------------------------------------- |
 | GUID            | Unique Identifier | Automatically generated -  serial number                      |
