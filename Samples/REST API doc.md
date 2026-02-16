@@ -52,7 +52,7 @@ Retrieves populated places based on attribute or spatial filters.
       "attributes": {
         "Id": "176",
         "Name": "New Delhi",
-        " FeatureClass ": "National Capital",
+        "FeatureClass": "National Capital",
         "Adm0Name": "India",
         "Adm1Name": "Delhi",
         "Adm2Name": "New Delhi",
@@ -70,3 +70,4 @@ Retrieves populated places based on attribute or spatial filters.
 ### Related Resources
 * [ArcGIS REST API Documentation](https://sampleserver6.arcgisonline.com/arcgis/sdk/rest/index.html#/02ss00000048000000)
 * [Data source](https://data.humdata.org/)
+
