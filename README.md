@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Technical Writer and GIS analyst with a Ph.D. from the Indian Institute of Technology Gandhinagar (IIT-GN) and over four years of experience translating complex data into clear, usable insights through technical documentation, data analysis, and visualization.
+I am a **communications specialist working at the intersection of technical communication, spatial data analysis, digital product design, and knowledge management.** I hold a Ph.D. from the Indian Institute of Technology Gandhinagar (IIT-GN) and have over four years of experience translating complex research and technical workflows into **clear, accessible documentation and digital knowledge products**.
 
 ### I specialize in 
 * Analytical and research writing
@@ -8,6 +8,8 @@ I am a Technical Writer and GIS analyst with a Ph.D. from the Indian Institute o
 * Standard operating procedures (SOPs)
 * User guides and manuals
 * Workflow documentation
+* eLearning modules and tutorials
+* Newsletters, blog posts, and social media content
 
 ### My domain expertise is
 * GIS and spatial data workflows
@@ -18,8 +20,8 @@ I am a Technical Writer and GIS analyst with a Ph.D. from the Indian Institute o
 1. [SOP for development of a web application](https://github.com/Dr-Haritha/Dr-Haritha/blob/main/Samples/SOP.md)
 2. [API documentation - Populated places Feature Service](https://github.com/Dr-Haritha/Dr-Haritha/blob/main/Samples/REST%20API%20doc.md)
 3. [Story map for crisis management](https://arcg.is/4uPO50)
+4. [Dashboard on global food insecurity](https://www.arcgis.com/apps/dashboards/abd9ce4cf4c44cf69e7e138a3205da85)
 
-### I am actively seeking opportunities to apply my technical writing skills across diverse domains.
 
 ##### Disclaimer  
 <small>
