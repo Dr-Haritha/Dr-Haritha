@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a **communications specialist working at the intersection of technical communication, spatial data analysis, digital product design, and knowledge management.** I hold a Ph.D. from the Indian Institute of Technology Gandhinagar (IIT-GN) and have over four years of experience translating complex research and technical workflows into **clear, accessible documentation and digital knowledge products**.
+I hold a **Ph.D. from the Indian Institute of Technology Gandhinagar (IIT-GN)** and have five years of experience translating complex research and technical workflows into clear, accessible documentation and digital knowledge products. Currently working on communications, content strategy and product marketing.
 
 ### I specialize in 
 * Analytical and research writing
