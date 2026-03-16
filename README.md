@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I hold a **Ph.D. from the Indian Institute of Technology Gandhinagar (IIT-GN)** and have five years of experience translating complex research and technical workflows into clear, accessible documentation and digital knowledge products. Currently working on communications, content strategy and product marketing.
+I hold a **Ph.D. from the Indian Institute of Technology Gandhinagar (IIT-GN)** and have five years of experience translating complex research, spatial data and technical workflows into clear, accessible documentation and digital knowledge products. Currently working on communications, content strategy and product marketing.
 
 ### My domain expertise is
 * GIS and spatial data workflows
