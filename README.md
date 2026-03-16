@@ -2,6 +2,11 @@
 
 I hold a **Ph.D. from the Indian Institute of Technology Gandhinagar (IIT-GN)** and have five years of experience translating complex research and technical workflows into clear, accessible documentation and digital knowledge products. Currently working on communications, content strategy and product marketing.
 
+### My domain expertise is
+* GIS and spatial data workflows
+* Risk assessment for natural and human-made hazards 
+* Crisis management
+
 ### I specialize in 
 * Analytical and research writing
 * API documentation
@@ -10,11 +15,6 @@ I hold a **Ph.D. from the Indian Institute of Technology Gandhinagar (IIT-GN)** 
 * Workflow documentation
 * eLearning modules and tutorials
 * Newsletters, blog posts, and social media content
-
-### My domain expertise is
-* GIS and spatial data workflows
-* Risk assessment for natural and human-made hazards 
-* Crisis management
 
 ### Here are some samples
 1. [SOP for development of a web application](https://github.com/Dr-Haritha/Dr-Haritha/blob/main/Samples/SOP.md)
