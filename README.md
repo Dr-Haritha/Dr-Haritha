@@ -17,7 +17,7 @@ I hold a **Ph.D. from the Indian Institute of Technology Gandhinagar (IIT-GN)** 
 * Newsletters, blog posts, and social media content
 
 ### Here are some samples
-1. [SOP for development of a web application](https://github.com/Dr-Haritha/Dr-Haritha/blob/main/Samples/SOP.md)
+1. [SOPs](https://github.com/Dr-Haritha/Dr-Haritha/tree/main/SOPs)
 2. [API documentation - Populated places Feature Service](https://github.com/Dr-Haritha/Dr-Haritha/blob/main/Samples/REST%20API%20doc.md)
 3. [Story map for crisis management](https://arcg.is/4uPO50)
 4. [Dashboard on global food insecurity](https://www.arcgis.com/apps/dashboards/abd9ce4cf4c44cf69e7e138a3205da85)
