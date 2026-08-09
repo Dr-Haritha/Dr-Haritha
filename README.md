@@ -1,26 +1,48 @@
 ### Hi there 👋
 
-I hold a **Ph.D. from the Indian Institute of Technology Gandhinagar (IIT-GN)** and have five years of experience translating complex research, spatial data, and technical workflows into clear, accessible documentation and digital knowledge products. Currently working on communications, content strategy and product marketing.
+I hold a **Ph.D. from the Indian Institute of Technology Gandhinagar (IIT-GN)** and have over five years of experience translating complex research, spatial data, and technical workflows into clear, accessible documentation and digital knowledge products. My experience spans academia, the United Nations, and the technology sector, with a focus on geospatial technologies, risk assessment, knowledge management, technical communication, and AI-driven digital products.
+### Areas of Expertise
 
-### My domain expertise is
-* GIS and spatial data workflows
-* Risk assessment for natural and human-made hazards 
-* Crisis management
+#### Geospatial Analysis & Risk Assessment
 
-### I specialize in 
-* Analytical and research writing
+* Remote sensing and Earth observation analysis
+* Geospatial modelling and spatial decision support
+* Multi-hazard risk assessment including floods, landslides, soil erosion, and earthquakes
+* Land-use and land-cover change detection
+* Urban and agricultural encroachment analysis
+* Heritage vulnerability assessment and conservation planning
+* GeoAI and machine learning applications for geospatial risk assessment
+
+#### Research & Knowledge Management
+
+* Research design and analytical frameworks
+* Literature reviews and evidence synthesis
+* Knowledge management
+* Monitoring, evaluation, and reporting
+* Data-driven decision support
+
+#### Technical Communication & Product Content
+
+* Technical and analytical writing
 * API documentation
 * Standard operating procedures (SOPs)
-* User guides and manuals
-* Workflow documentation
-* eLearning modules and tutorials
-* Newsletters, blog posts, and social media content
+* User guides and workflow documentation
+* eLearning content and tutorials
+* Content strategy and product marketing
 
-### Here are some samples
-1. [SOPs](https://github.com/Dr-Haritha/Dr-Haritha/tree/main/SOPs)
-2. [API documentation - Populated places Feature Service](https://github.com/Dr-Haritha/Dr-Haritha/blob/main/Samples/REST%20API%20doc.md)
-3. [Story map for crisis management](https://arcg.is/4uPO50)
-4. [Dashboard on global food insecurity](https://www.arcgis.com/apps/dashboards/abd9ce4cf4c44cf69e7e138a3205da85)
+### Featured Repositories
+
+#### 📚 Technical Documentation & Knowledge Products
+
+Examples of SOPs, API documentation, Generative AI–enabled knowledge products, workflow guides, technical writing, and product documentation.
+ 
+👉 https://github.com/Dr-Haritha/Dr-Haritha
+
+#### 🌍 PhD Research Portfolio
+
+GIS and remote sensing projects from my doctoral research on geospatial risk assessment of archaeological heritage landscapes, including flood risk, landslide risk, soil erosion, earthquake risk, and human-induced threats:
+
+👉 https://github.com/Dr-Haritha/my-PhD-thesis-geospatial-risk-assessment
 
 
 ##### Disclaimer  
@@ -28,4 +50,3 @@ I hold a **Ph.D. from the Indian Institute of Technology Gandhinagar (IIT-GN)** 
 The documents in this repository are original works created for portfolio purposes.
 They do not represent internal documentation from any organization and contain no proprietary or confidential information.
 </small>
-
